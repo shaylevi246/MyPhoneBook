@@ -1,2 +1,2 @@
 # MyPhoneBook
-contacts organizer for windows
+contacts management system for windows
